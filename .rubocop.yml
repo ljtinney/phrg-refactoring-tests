@@ -1,4 +1,5 @@
 # These rules apply to the Nitro Umbrella app and all components.
+require: rubocop-performance
 
 AllCops:
   TargetRubyVersion: 2.5
